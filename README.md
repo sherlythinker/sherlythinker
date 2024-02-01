@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sherlythinker
+- 👋 Hi, I’m Sherlock
 - 👀 I’m interested in Data Science and Data Analytics 
 - 🌱 I’m currently learning how to apply Data Science to Social Systems
 - 📫 You can reach me on slangevi@stanford.edu
